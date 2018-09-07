@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1a0f551-18ea-4145-9b13-6534793876e3" name="Default" comment="" />
+    <list default="true" id="d1a0f551-18ea-4145-9b13-6534793876e3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
+    </list>
     <ignored path="testTask.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchPositionTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SearchPositionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/autotest/SearchPositionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -45,6 +47,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,6 +85,7 @@
         <option value="$PROJECT_DIR$/src/test/java/autotest/TestSearchPosition.java" />
         <option value="$PROJECT_DIR$/src/test/java/autotest/SearchPositionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/autotest/SearchPositionTest.java" />
+        <option value="$PROJECT_DIR$/README.txt" />
       </list>
     </option>
   </component>
@@ -136,20 +149,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="testTask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testTask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testTask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -548,7 +547,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1364" height="726" extended-state="1" />
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -659,6 +658,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
