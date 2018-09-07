@@ -502,9 +502,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchPositionTest_searchPos - 2018.09.06 at 19h 26m 23s.xml">
-      <configuration name="SearchPositionTest.searchPos" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SearchPositionTest_searchPos - 2018.09.06 at 19h 27m 17s.xml">
       <configuration name="SearchPositionTest.searchPos" configurationId="JUnit" />
     </history-entry>
@@ -532,6 +529,9 @@
     <history-entry file="SearchPositionTest_searchPos - 2018.09.07 at 08h 57m 59s.xml">
       <configuration name="SearchPositionTest.searchPos" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SearchPositionTest_searchPos - 2018.09.07 at 09h 00m 36s.xml">
+      <configuration name="SearchPositionTest.searchPos" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="1" />
@@ -545,7 +545,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.107583776" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.052910052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
